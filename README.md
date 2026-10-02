@@ -50,7 +50,7 @@ I enjoy solving engineering problems around:
 
 ### Engineering
 
-`System Design` · `Backend Architecture` · `Database Design` · `Performance Optimization` · `Code Review` · `Technical Leadership`
+`System & Database Design` · `Backend Architecture` · `Performance Optimization` · `Code Review` · `Technical Leadership`
 
 ## What I've Worked On
 
