@@ -12,8 +12,6 @@ Currently **open to freelance opportunities**, especially for backend developmen
 [GitHub](https://github.com/ZihxS) ·
 [Portfolio](https://s.id/web-msalehs)
 
----
-
 ## About Me
 
 I'm currently working as a **Technical Lead**, leading technical direction, architecture, and engineering delivery for a maritime HRIS platform supporting shipping companies and crewing operations.
@@ -31,8 +29,6 @@ I enjoy solving engineering problems around:
 - Security-conscious backend development
 - Production engineering
 - Engineering leadership & mentoring
-
----
 
 ## Core Expertise
 
@@ -55,8 +51,6 @@ I enjoy solving engineering problems around:
 ### Engineering
 
 `System Design` · `Backend Architecture` · `Database Design` · `Performance Optimization` · `Code Review` · `Technical Leadership`
-
----
 
 ## What I've Worked On
 
@@ -118,8 +112,6 @@ During this period, I migrated backend services from PHP to **Go** and improved 
 
 I also worked on database scaling, server infrastructure, application security, monitoring, and high-availability systems for critical financial activities.
 
----
-
 ## Engineering Leadership
 
 Beyond writing code, my responsibilities include:
@@ -140,8 +132,6 @@ Beyond writing code, my responsibilities include:
 
 I work closely with engineering and product stakeholders to balance technical quality, delivery speed, maintainability, and business requirements.
 
----
-
 ## Security
 
 Security has always been an important part of my engineering work.
@@ -159,8 +149,6 @@ Alongside backend engineering, I also have experience with:
 - Production security monitoring
 
 I have also worked independently as a **Freelance Penetration Tester**, helping identify, validate, document, and responsibly disclose security vulnerabilities.
-
----
 
 ## Engineering Philosophy
 
@@ -183,8 +171,6 @@ Systems should be designed with future growth and operational complexity in mind
 
 **Practical**  
 Good architecture should solve real problems without introducing unnecessary complexity.
-
----
 
 ## Open to Freelance
 
@@ -210,8 +196,6 @@ Areas where I can help:
 
 For larger or more complex projects, I can also help with technical planning, architecture decisions, engineering standards, and backend team direction.
 
----
-
 ## Currently Interested In
 
 I'm particularly interested in:
@@ -226,8 +210,6 @@ I'm particularly interested in:
 - Developer tooling
 - Engineering productivity
 - System architecture
-
----
 
 ## Let's Connect
 
