@@ -9,7 +9,7 @@ I focus on backend architecture, complex business workflows, system reliability,
 Currently **open to freelance opportunities**, especially for backend development, Go engineering, API development, system architecture, performance optimization, and technical consulting.
 
 [LinkedIn](https://www.linkedin.com/in/muhammad-saleh-solahudin-8444171b2) ·
-[GitHub](https://github.com/ZihxS) ·
+[TikTok](https://www.tiktok.com/@msalehsolahudin) ·
 [Portfolio](https://s.id/web-msalehs)
 
 ## About Me
@@ -220,8 +220,8 @@ If you have a freelance project, technical collaboration, or backend problem tha
 **LinkedIn**  
 https://www.linkedin.com/in/muhammad-saleh-solahudin-8444171b2
 
-**GitHub**  
-https://github.com/ZihxS
+**TikTok**  
+https://www.tiktok.com/@msalehsolahudin
 
 **Portfolio**  
 https://s.id/web-msalehs
